@@ -1,6 +1,6 @@
 Basic HTML project created using guidelines from Codecademy's HTML & CSS Skill Path Course. Starter Code is saved in Starter Code folder.
 
-This project makes use of semantic HTML elements such as
+The webpage is a fictitious fashion blog for NYFW. It makes use of semantic HTML elements such as
 
 - doctype declaration
 - HTML element
